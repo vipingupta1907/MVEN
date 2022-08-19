@@ -38,7 +38,3 @@ and em means emotion
 In Data folder all the raw data are there.
 
 ----------------------------------------------------------------------
-
-for any queries you can mail us at vipingupta1907@gmail.com
-
-
