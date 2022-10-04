@@ -6,15 +6,15 @@ General Instructions -
 
 * Before running any code, we have to create the conda environment using environment.yml file.
 
-'''
+```
 conda env create -f environment.yml
-'''
+```
 
 * For running the model 
-* * with full dataset (Hindi + Tamil + Bangla) use - python python-filename full
-* * with hindi dataset use - python python-filename h
-* * with bangla dataset use - python python-filename b
-* * with tamil dataset use - python python-filename t
+    * with full dataset (Hindi + Tamil + Bangla) use - python python-filename full
+    * with hindi dataset use - python python-filename h
+    * with bangla dataset use - python python-filename b
+    * with tamil dataset use - python python-filename t
 
 ------------------------------------------------------------------------
 
